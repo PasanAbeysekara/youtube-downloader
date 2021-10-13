@@ -1,2 +1,2 @@
 # youtube-downloader
-youtube downloader using python, pytube and tkinter
+youtube downloader GUI app using python, pytube and tkinter
